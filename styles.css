@@ -6,7 +6,7 @@
     background-color: blue;
 	  color:white;
   }
- th, td {
+ thead, td {
     padding: 8px;
     border-bottom: 1px solid #ddd;
   }
