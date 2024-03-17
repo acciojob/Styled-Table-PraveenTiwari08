@@ -1,8 +1,8 @@
 /* your code */
-  tr:nth-child(odd) {
+  tr:nth-child(even) {
     background-color: yellow;
   }
-  tr:first-child {
+  thead{
     background-color: blue;
 	  color:white;
   }
